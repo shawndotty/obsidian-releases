@@ -18989,5 +18989,12 @@
     "author": "Diego Eis",
     "description": "Automate frontmatter updates using conditional rules (IF/THEN).",
     "repo": "diegoeis/obsidian-conditional-properties"
+  },
+  {
+    "id": "my-text-tools",
+  	"name": "My Text Tools",
+    "author": "JohnnyLearns",
+  	"description": "An advanced text processing workbench for Obsidian, inspired by mytexttools.com",
+  	"repo": "shawndotty/my-text-tools"
   }
 ]
